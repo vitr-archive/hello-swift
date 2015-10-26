@@ -10,6 +10,6 @@ https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptua
 swift playground
 https://www.objc.io/issues/16-swift/rapid-prototyping-in-swift-playgrounds/
 
-the source code (playground) 
+the source code (playground)  
 https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.playground.zip
 
