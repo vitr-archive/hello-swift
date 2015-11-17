@@ -13,4 +13,6 @@ https://www.objc.io/issues/16-swift/rapid-prototyping-in-swift-playgrounds/
 the source code 
 https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.playground.zip
 
-is there swift3?
+
+run swift code online
+http://swiftstub.com/
