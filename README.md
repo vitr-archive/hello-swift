@@ -1,4 +1,8 @@
 # hello-swift2
+
+open source
+https://github.com/apple/swift
+
 Swift Language intro
 
 http://www.raywenderlich.com/115253/swift-2-tutorial-a-quick-start
@@ -22,3 +26,5 @@ ipad app
 swift for web?
 github repo - apple/swift
 https://www.perfect.org/
+
+
