@@ -2,6 +2,7 @@
 
 open source
 https://github.com/apple/swift
+https://swift.org/
 
 Swift Language intro
 
@@ -26,5 +27,3 @@ ipad app
 swift for web?
 github repo - apple/swift
 https://www.perfect.org/
-
-
