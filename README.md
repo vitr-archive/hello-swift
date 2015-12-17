@@ -1,4 +1,4 @@
-# hello-swift2
+# Hello Swift
 
 open source
 https://github.com/apple/swift
