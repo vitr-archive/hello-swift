@@ -1,8 +1,9 @@
 # Hello Swift
 
 Apple's open source
-https://github.com/apple/swift
 https://swift.org/
+https://github.com/apple/swift
+
 
 Swift Language intro
 
