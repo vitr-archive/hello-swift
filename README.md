@@ -1,6 +1,6 @@
 # Hello Swift
 
-Apple's open source
+Apple open source
 https://swift.org/
 https://github.com/apple/swift
 
