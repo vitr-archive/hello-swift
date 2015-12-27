@@ -25,5 +25,5 @@ run swift code online
 http://swiftstub.com/
 
 swift for web
-github repo - apple/swift
+github repo - apple/swift - in progress
 https://www.perfect.org/
