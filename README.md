@@ -24,6 +24,5 @@ https://www.objc.io/issues/16-swift/rapid-prototyping-in-swift-playgrounds/
 run swift code online
 http://swiftstub.com/
 
-swift for web
-github repo - apple/swift - in progress
+swift for web - in progress
 https://www.perfect.org/
