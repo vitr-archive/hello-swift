@@ -26,3 +26,7 @@ http://swiftstub.com/
 
 swift for web - in progress
 https://www.perfect.org/
+
+
+forked repo - animatd splash screen (launchscreen)
+https://github.com/vitr/OpenBook
