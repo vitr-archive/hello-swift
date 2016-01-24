@@ -30,3 +30,7 @@ https://www.perfect.org/
 
 forked repo - animatd splash screen (launchscreen)
 https://github.com/vitr/OpenBook
+
+###How do I see which version of Swift I'm using in Xcode?
+`$ xcrun swift -version`  
+http://stackoverflow.com/questions/30790188/how-do-i-see-which-version-of-swift-im-using-in-xcode
